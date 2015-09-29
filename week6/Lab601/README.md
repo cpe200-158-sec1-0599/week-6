@@ -12,3 +12,5 @@ from the provided C# source code.
   - Test the new requirment by modifying the main function and show the result.
   - Show the main function and snippet of C# code that is related to the process.
 
+1)Before add asian herbivore and asian carnivore.
+![570610599](http://i.imgur.com/sK2ouL7.png)
