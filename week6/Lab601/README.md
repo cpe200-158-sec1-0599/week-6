@@ -14,3 +14,6 @@ from the provided C# source code.
 
 1)Before add asian herbivore and asian carnivore.
 ![570610599](http://i.imgur.com/sK2ouL7.png)
+
+2)After add asian herbivore and asian carnivore.
+![570610599](http://i.imgur.com/ovtf5um.png)
