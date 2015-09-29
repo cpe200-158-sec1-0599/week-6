@@ -47,6 +47,34 @@ namespace Lab601
       return new Wolf();
     }
   }
+  ///////////////////////////////////////////////////////////
+    //ASIAN FACTORY
+    /// ///////////////////////////////////////////////////////
+    class AsianFactory : ContinentFactory
+    {
+        public override Herbivore CreateHerbivore()
+        {
+            return new AsianHerbivore();
+        }
+        public override Carnivore CreateCarnivore()
+        {
+            return new AsianCarnivore();
+        }
+    }
+    class AsianHerbivore : Herbivore
+    {
+    }
+
+    class AsianCarnivore : Carnivore
+    {
+        public override void Eat(Herbivore h)
+        {
+            // Eat Wildebeest
+            Console.WriteLine(this.GetType().Name +
+              " eats " + h.GetType().Name);
+        }
+    }
+    /// ///////////////////////////////////////////////////////
  
   abstract class Herbivore
   {
