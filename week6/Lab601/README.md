@@ -13,7 +13,7 @@ from the provided C# source code.
   - Show the main function and snippet of C# code that is related to the process.
 
 1)Before add asian herbivore and asian carnivore.
-![570610599](http://i.imgur.com/sK2ouL7.png)
+![570610599](http://i.imgur.com/UzyDADD.png)
 
 2)After add asian herbivore and asian carnivore.
-![570610599](http://i.imgur.com/ovtf5um.png)
+![570610599](http://i.imgur.com/A4AzU7B.png)
